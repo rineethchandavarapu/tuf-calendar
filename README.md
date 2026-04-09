@@ -62,7 +62,7 @@ The project is optimized for deployment on **Vercel** with the following configu
 
 ### Live Demo
 > [!TIP]
-> **Live Link**: [Your Vercel URL Here]
+> **Live Link**: https://tuf-calendar-green.vercel.app/
 
 ---
 

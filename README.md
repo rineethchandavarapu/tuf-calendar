@@ -76,4 +76,4 @@ This project addresses the core requirements of the SWE Intern assessment:
 - [x] **Code Quality**: Structured into reusable sub-components with a clean, centralized style architecture.
 
 ---
-*Developed for the Horizon Summer Internship Program - 2026*
+*Developed for the SWE Summer Intern  2026 - takeuforward*
